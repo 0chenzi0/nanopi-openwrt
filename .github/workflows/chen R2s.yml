@@ -5,7 +5,7 @@ on:
     paths:
       - '.github/workflows/r2s_lienol_from_lean.yml'
   schedule:
-    - cron: '30 12 * * *'
+    - cron: '32 16 * * *'
 
 jobs:
 
